@@ -5,7 +5,7 @@
 * 🎓 **Education**: University of Salvador  
 * 🏆 **Certifications**: Web Full Stack Developer - Digital House
 ## GitHub Status
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranCapi2005&theme=github-dark&background=0D1117&dates=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranCapi2005&theme=github-dark&border=white&background=0D1117&dates=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=58A6FF)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranCapi2005&layout=compact&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF)
 

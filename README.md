@@ -7,7 +7,7 @@
 ## GitHub Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranCapi2005&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranCapi2005&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranCapi2005&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF)
 
 ## 🛠️ Tech Stack
 

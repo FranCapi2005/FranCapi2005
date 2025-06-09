@@ -4,18 +4,12 @@
 * 🌎 **From**: Buenos Aires, Argentina  
 * 🎓 **Education**: University of Salvador  
 * 🏆 **Certifications**: Web Full Stack Developer - Digital House
-* 🧠 **Interests**:
-  - Distributed systems architecture
-  - Applied cybersecurity
-  - Database optimization
-  - Advanced Java & Spring Boot
-* 🎯 **Goals 2025**:  
-  - Complete advanced tech learning path  
-  - Contribute to open-source projects  
-
+## GitHub Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranCapi2005&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranCapi2005&layout=compact&theme=dark&hide_border=true)
+
+![FranCapi2005's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranCapi2005&show_icons=true&theme=dark&hide_border=true)
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend

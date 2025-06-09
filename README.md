@@ -6,6 +6,7 @@
 * 🏆 **Certifications**: Web Full Stack Developer - Digital House
 ## GitHub Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranCapi2005&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranCapi2005&layout=compact&theme=dark&hide_border=true)
 
 ## 🛠️ Tech Stack
@@ -16,7 +17,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTMX](https://img.shields.io/badge/HTMX-5C1D87?style=for-the-badge&logo=html5&logoColor=white)](https://htmx.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![EJE](https://img.shields.io/badge/EJE-FF5733?style=for-the-badge&logo=javascript&logoColor=white)](https://ejemplo.com/eje)
+[![EJS](https://img.shields.io/badge/EJS-FF5733?style=for-the-badge&logo=javascript&logoColor=white)](https://ejemplo.com/ejs)
 
 ### ⚙️ Backend
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)

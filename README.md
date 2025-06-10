@@ -7,10 +7,7 @@
 ## GitHub Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranCapi2005&theme=github-dark&border=white&background=0D1117&dates=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=58A6FF)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranCapi2005&layout=compact&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF)
-
 ## 🛠️ Tech Stack
-
 ### 🌐 Frontend
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
